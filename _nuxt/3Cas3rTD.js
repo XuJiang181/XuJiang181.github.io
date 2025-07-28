@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./BqYZxYz9.js";const s={},n={class:"flex justify-center items-center h-screen text-2xl text-gray-800"};function r(o,_){return c(),t("div",n)}const f=e(s,[["render",r]]);export{f as default};
